@@ -1,0 +1,11 @@
+{
+		    "firstname" : "Amod",
+		    "lastname" : "Mahajan",
+		    "totalprice" : 121,
+		    "depositpaid" : true,
+		    "bookingdates" : {
+		        "checkin" : "2020-02-01",
+		        "checkout" : "2020-02-05"
+		    },
+		    "additionalneeds" : "Breakfast"
+		}
