@@ -44,9 +44,9 @@ public class Update {
 		httprequest.contentType("Content-Type,application/json");
 		httprequest.body(hm1.toString());
 		Response response=httprequest.request(Method.POST,"");
-		/*System.out.println(response.getStatusCode());
+	System.out.println(response.getStatusCode());
 		System.out.println(response.getStatusLine());
-		*/
+	
 		
 		
 		
